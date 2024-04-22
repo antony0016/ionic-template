@@ -1,0 +1,7 @@
+{
+  "name": "motor-shop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
