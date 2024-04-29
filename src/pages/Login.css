@@ -1,0 +1,13 @@
+.invisible {
+    display: none;
+}
+
+.mt-200 {
+    margin-top: 20vh;
+}
+
+ion-grid {
+    --ion-grid-padding: 1px;
+
+    --ion-grid-column-padding: 1px;
+}
